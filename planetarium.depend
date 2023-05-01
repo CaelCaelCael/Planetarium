@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1681479943 source:c:\users\caele\desktop\planetarium\coding final\planetarium\main.cpp
+	<iostream>
+	"RockPlanet.h"
+	"GasPlanet.h"
+	"Comparison.h"
+	"Space.h"
+	<algorithm>
+	<vector>
+
+1681226681 c:\users\caele\desktop\planetarium\coding final\planetarium\include\rockplanet.h
+	<iostream>
+	<set>
+	<string>
+	"SolarSystem.h"
+
+1681480324 c:\users\caele\desktop\planetarium\coding final\planetarium\include\solarsystem.h
+	<iostream>
+	"Planet.h"
+	<vector>
+	<string>
+
+1681226169 c:\users\caele\desktop\planetarium\coding final\planetarium\include\planet.h
+	<iostream>
+	<string>
+
+1681478791 c:\users\caele\desktop\planetarium\coding final\planetarium\include\gasplanet.h
+	<iostream>
+	<string>
+	<vector>
+	"SolarSystem.h"
+
+1681480393 c:\users\caele\desktop\planetarium\coding final\planetarium\include\comparison.h
+	"SolarSystem.h"
+
+1681219556 c:\users\caele\desktop\planetarium\coding final\planetarium\include\space.h
+	<iostream>
+	<vector>
+	"SolarSystem.h"
+
+1681480320 source:c:\users\caele\desktop\planetarium\coding final\planetarium\src\comparison.cpp
+	"Comparison.h"
+
+1681480324 source:c:\users\caele\desktop\planetarium\coding final\planetarium\src\gasplanet.cpp
+	"GasPlanet.h"
+
+1681480137 source:c:\users\caele\desktop\planetarium\coding final\planetarium\src\planet.cpp
+	"Planet.h"
+	"RockPlanet.h"
+	"GasPlanet.h"
+
+1681224064 source:c:\users\caele\desktop\planetarium\coding final\planetarium\src\rockplanet.cpp
+	"RockPlanet.h"
+
+1681480343 source:c:\users\caele\desktop\planetarium\coding final\planetarium\src\solarsystem.cpp
+	"SolarSystem.h"
+	"Planet.h"
+	"RockPlanet.h"
+	"GasPlanet.h"
+
+1681219556 source:c:\users\caele\desktop\planetarium\coding final\planetarium\src\space.cpp
+	"Space.h"
+
+1682263067 source:d:\planetarium\coding final\planetarium\main.cpp
+	<iostream>
+	"RockPlanet.h"
+	"GasPlanet.h"
+	"Comparison.h"
+	"Space.h"
+	<algorithm>
+	<vector>
+	<fstream>
+
+1681226681 d:\planetarium\coding final\planetarium\include\rockplanet.h
+	<iostream>
+	<set>
+	<string>
+	"SolarSystem.h"
+
+1681480324 d:\planetarium\coding final\planetarium\include\solarsystem.h
+	<iostream>
+	"Planet.h"
+	<vector>
+	<string>
+
+1681226169 d:\planetarium\coding final\planetarium\include\planet.h
+	<iostream>
+	<string>
+
+1681478791 d:\planetarium\coding final\planetarium\include\gasplanet.h
+	<iostream>
+	<string>
+	<vector>
+	"SolarSystem.h"
+
+1681480393 d:\planetarium\coding final\planetarium\include\comparison.h
+	"SolarSystem.h"
+
+1681219556 d:\planetarium\coding final\planetarium\include\space.h
+	<iostream>
+	<vector>
+	"SolarSystem.h"
+
+1681480393 source:d:\planetarium\coding final\planetarium\src\comparison.cpp
+	"Comparison.h"
+
+1681480324 source:d:\planetarium\coding final\planetarium\src\gasplanet.cpp
+	"GasPlanet.h"
+
+1681480137 source:d:\planetarium\coding final\planetarium\src\planet.cpp
+	"Planet.h"
+	"RockPlanet.h"
+	"GasPlanet.h"
+
+1681224064 source:d:\planetarium\coding final\planetarium\src\rockplanet.cpp
+	"RockPlanet.h"
+
+1681670056 source:d:\planetarium\coding final\planetarium\src\solarsystem.cpp
+	"SolarSystem.h"
+	"Planet.h"
+	"RockPlanet.h"
+	"GasPlanet.h"
+
+1681480420 source:d:\planetarium\coding final\planetarium\src\space.cpp
+	"Space.h"
+
